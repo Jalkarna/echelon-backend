@@ -1,0 +1,42 @@
+[
+  {
+    "sign_text": "HELLO YOU OK?",
+    "frames_json": "[{\"time\":0,\"joints\":{\"RightHand\":{\"rotation\":[0.2618,0,0],\"position\":[0,0,0]},\"RightFingers\":{\"rotation\":[0,0,0],\"position\":[0,0,0]}}},{\"time\":1,\"joints\":{\"RightHand\":{\"rotation\":[0.1,0.2,0],\"position\":[0,0,0]}}}]"
+  },
+  {
+    "sign_text": "YOUR NAME WHAT?",
+    "frames_json": "[{\"time\":0,\"joints\":{\"RightHand\":{\"rotation\":[0,0.1745,0],\"position\":[0,0,0]}}},{\"time\":1,\"joints\":{\"RightFingers\":{\"rotation\":[0,0,0],\"position\":[0,0,0]}}}]"
+  },
+  {
+    "sign_text": "ME FINE THANK YOU.",
+    "frames_json": "[{\"time\":0,\"joints\":{\"RightHand\":{\"rotation\":[0,0,0.2],\"position\":[0,0,0]},\"RightFingers\":{\"rotation\":[0,0,0],\"position\":[0,0,0]}}}]"
+  },
+  {
+    "sign_text": "WHAT UP?",
+    "frames_json": "[{\"time\":0,\"joints\":{\"RightHand\":{\"rotation\":[0.2618,0.2618,0],\"position\":[0,0,0]}}},{\"time\":1,\"joints\":{\"RightFingers\":{\"rotation\":[0,0,0],\"position\":[0,0,0]}}}]"
+  },
+  {
+    "sign_text": "ME NEED HELP.",
+    "frames_json": "[{\"time\":0,\"joints\":{\"RightHand\":{\"rotation\":[0.3491,0,0],\"position\":[0,0,0]}}},{\"time\":1,\"joints\":{\"RightHand\":{\"rotation\":[0,0,0],\"position\":[0,0,0]}}}]"
+  },
+  {
+    "sign_text": "PLEASE SHOW ME AGAIN.",
+    "frames_json": "[{\"time\":0,\"joints\":{\"RightFingers\":{\"rotation\":[0,0,0],\"position\":[0,0,0]}},\"time\":1}]"
+  },
+  {
+    "sign_text": "YOU WORK WHERE?",
+    "frames_json": "[{\"time\":0,\"joints\":{\"RightHand\":{\"rotation\":[0,0.2618,0],\"position\":[0,0,0]}}},{\"time\":1,\"joints\":{\"RightFingers\":{\"rotation\":[0.1,0,0],\"position\":[0,0,0]}}}]"
+  },
+  {
+    "sign_text": "TIME WHAT?",
+    "frames_json": "[{\"time\":0,\"joints\":{\"RightHand\":{\"rotation\":[0,0,0.2],\"position\":[0,0,0]}},\"time\":1},{\"joints\":{\"RightHand\":{\"rotation\":[0,0,0],\"position\":[0,0,0]}},\"time\":2}]"
+  },
+  {
+    "sign_text": "WEEKEND YOUR HOW?",
+    "frames_json": "[{\"time\":0,\"joints\":{\"RightHand\":{\"rotation\":[0.2,0.2,0],\"position\":[0,0,0]}},\"time\":1},{\"joints\":{\"RightHand\":{\"rotation\":[0,0,0],\"position\":[0.1,0,0]}},\"time\":2}]"
+  },
+  {
+    "sign_text": "ME SEE YOU TOMORROW.",
+    "frames_json": "[{\"time\":0,\"joints\":{\"RightFingers\":{\"rotation\":[0,0,0.3],\"position\":[0,0,0]}},\"time\":1},{\"time\":2,\"joints\":{\"RightHand\":{\"rotation\":[0.2,0,0],\"position\":[0.0,0.1,0]}},\"blocks\":\"any-other-info\"}]"
+  }
+]
